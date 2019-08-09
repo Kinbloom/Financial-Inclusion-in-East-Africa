@@ -6,3 +6,5 @@ Financial inclusion means that individuals and businesses have access to useful 
 As accountholders, people are more likely to use other financial services such as credit and insurance to start and expand businesses, invest in education or health, manage risk, and weather financial shocks, which can improve the overall quality of their lives.
 
 The World Bank Group considers financial inclusion a key enabler to reduce extreme poverty and boost shared prosperity.
+
+Access to bank accounts is an indicator of financial inclusion.
