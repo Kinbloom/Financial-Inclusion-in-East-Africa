@@ -8,3 +8,5 @@ As accountholders, people are more likely to use other financial services such a
 The World Bank Group considers financial inclusion a key enabler to reduce extreme poverty and boost shared prosperity.
 
 Access to bank accounts is an indicator of financial inclusion.
+
+## The main research problem: Can we predict which individuals are most likely to use a bank account? Provide insight into the key demographic factors that might drive individuals' financial outcomes.
