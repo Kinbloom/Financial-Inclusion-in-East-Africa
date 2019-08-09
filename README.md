@@ -9,4 +9,4 @@ The World Bank Group considers financial inclusion a key enabler to reduce extre
 
 Access to bank accounts is an indicator of financial inclusion.
 
-## The main research problem: Can we predict which individuals are most likely to use a bank account? Provide insight into the key demographic factors that might drive individuals' financial outcomes.
+#### The main research problem: Can we predict which individuals are most likely to use a bank account? Provide insight into the key demographic factors that might drive individuals' financial outcomes.
